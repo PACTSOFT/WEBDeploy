@@ -3595,8 +3595,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-reven-uweb
-
 rgbcolor
 MIT OR SEE LICENSE IN FEEL-FREE.md
 Copyright (c) 2016 Stoyan Stefanov, http://phpied.com/

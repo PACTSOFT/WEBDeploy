@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkRevenUWebApp=self.webpackChunkRevenUWebApp||[]).push([[6096],{66096:(l,n,e)=>{e.r(n),e.d(n,{RibbonMobile:()=>d});var b=e(73236);class d{static GetMobileAddLine(i){return new b.a(i)}}}}]);
