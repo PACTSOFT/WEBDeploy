@@ -249,6 +249,7 @@
 "CodeDefination_Seperator": "Seperator",
 "CodeDefination_DateFormat": "DateFormat",
 "SerialNo_Generate": "Generate",
+"Split_Generate": "Split & Generate",
 "SerialNo_Pick": "Pick",
 "SerialNo_Title": "Generate Serial Numbers",
 "SerialNo": "Serial Number",
@@ -3227,7 +3228,11 @@
 "Reports_LblHoliday":"Holiday",
 "Reports_LblOverTime":"OverTime",
 "Reports_ShowonlyPreviousAndCurrent":"ShowonlyPreviousAndCurrent",
-"WelcombackText":"Welcome Back"
+"WelcombackText":"Welcome Back",
+"Reports_LblDailyAttendace":"Daily Attendance",
+"Reports_LblAttendance":"Attendance",
+"Reports_LblWeekWise":"WeekWise",
+"Reports_LblDocumentType":"Document Type"
 
 
 }

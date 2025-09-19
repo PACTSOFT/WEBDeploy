@@ -2014,6 +2014,7 @@
 "SerialNo_AdjQty": "الكمية المعدلة",
 "SerialNo_Duplicate": "الرقم التسلسلي مكرر",
 "SerialNo_Generate": "إنشاء",
+"Split_Generate": "Split & Generate-AR",
 "SerialNo_InvQty": "كمية الفاتورة",
 "SerialNo_Pick": "اختيار",
 "SerialNo_Qty": "الكمية",
@@ -3155,7 +3156,9 @@
 "Attachment_ModifiedBy":"تم التعديل من قبل",
 "Attachment_ModifiedDate":"تم التعديل في تاريخ",
 "Attachment_status":"حالة",
-"WelcombackText":"يا هلا بعودتك"
-
-
+"WelcombackText":"يا هلا بعودتك",
+"Reports_LblDailyAttendace":"Daily Attendance-AR",
+"Reports_LblAttendance":"Attendance-AR",
+"Reports_LblWeekWise":"WeekWise-AR",
+"Reports_LblDocumentType":"Document Type-AR"
 }
