@@ -3232,7 +3232,8 @@
 "Reports_LblDailyAttendace":"Daily Attendance",
 "Reports_LblAttendance":"Attendance",
 "Reports_LblWeekWise":"WeekWise",
-"Reports_LblDocumentType":"Document Type"
+"Reports_LblDocumentType":"Document Type",
+"Reports_LblShowExchangeGL":"Show Exchange gain and loss"
 
 
 }

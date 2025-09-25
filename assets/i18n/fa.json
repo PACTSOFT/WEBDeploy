@@ -3160,5 +3160,6 @@
 "Reports_LblDailyAttendace":"Daily Attendance-AR",
 "Reports_LblAttendance":"Attendance-AR",
 "Reports_LblWeekWise":"WeekWise-AR",
-"Reports_LblDocumentType":"Document Type-AR"
+"Reports_LblDocumentType":"Document Type-AR",
+"Reports_LblShowExchangeGL":"Show Exchange gain and loss-AR"
 }
