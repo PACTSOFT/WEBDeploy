@@ -8,6 +8,7 @@
     "LoginByDimension": "NO",
     "ExternalPrinter": "NO",
     "HidePLogo": "NO",
+    "MobileTilesView": "NO",
     "logLevel": 5,
     "logLevel_Comment":"Set 1-INFO, 2-DEBUG, 3-LOG, 4-WARN, 5-ERROR, 6-OFF",
     "IsRememberPassword" : true,
