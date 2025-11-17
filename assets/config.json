@@ -1,5 +1,5 @@
 { 
-    "apiURL" :"http://192.168.1.132/PACTRevenUWEBAPI/", 
+    "apiURL" :"http://localhost:48516/", 
     "HideLoginText":"0",
     "EnableMobileWeb":"NO",
     "PlayStoreUrl":"https://play.google.com/store/apps/details?id=com.pact.erp",
