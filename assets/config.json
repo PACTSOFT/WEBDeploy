@@ -14,5 +14,7 @@
     "IsRememberPassword" : true,
     "EnableNode":false,
     "DisableEncryption":false,    
-    "apiNodeURL":""
+    "apiNodeURL":"",
+    "EIDPdfURL":"http://192.168.10.170:900/api/analyze",
+    "ChequePdfURL":"http://192.168.10.170:901/extract"
 }
