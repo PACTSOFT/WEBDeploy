@@ -3395,5 +3395,8 @@
     "PackWiseProds":"Imballo in base ai prodotti",
     "PackWiseProdsCols":"Colpi di Pack Wise Prods",
     "Com_Attachments_DownloadAllAttachments": "Download All Attachments-IT",
-    "WelcombackText":"Bentornato"
+    "WelcombackText":"Bentornato",
+    "Reports_LblShowSummaryColumns":"Show Summary Columns",
+    "Reports_LblShowOTSummary":"Show OverTime Summary",
+    "Reports_LblHideAttendanceDate":"Hide Attendance Date"
     }

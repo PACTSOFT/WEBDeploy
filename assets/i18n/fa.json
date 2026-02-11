@@ -3162,5 +3162,11 @@
 "Reports_LblAttendance":"Attendance-AR",
 "Reports_LblWeekWise":"WeekWise-AR",
 "Reports_LblDocumentType":"Document Type-AR",
-"Reports_LblShowExchangeGL":"Show Exchange gain and loss-AR"
+"Reports_LblShowExchangeGL":"Show Exchange gain and loss-AR",
+"Reports_LblLeaveType":"EmployeeWiseLeaveType-AR",
+"Reports_LblLeaveCount":"LeaveWiseEmployeeCount-AR",
+"Reports_LblShowSummaryColumns":"Show Summary Columns",
+"Reports_LblShowOTSummary":"Show OverTime Summary",
+"Reports_LblHideAttendanceDate":"Hide Attendance Date"
+
 }
