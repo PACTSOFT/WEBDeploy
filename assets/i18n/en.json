@@ -3239,7 +3239,9 @@
 "Reports_LblLeaveCount":"LeaveWiseEmployeeCount",
 "Reports_LblShowSummaryColumns":"Show Summary Columns",
 "Reports_LblShowOTSummary":"Show OverTime Summary",
-"Reports_LblHideAttendanceDate":"Hide Attendance Date"
+"Reports_LblHideAttendanceDate":"Hide Attendance Date",
+"ProcesswithAdjustments":"Process with Adjustments",
+"HideColumnsWithValueZero":"Hide Columns With Value Zero"
 
 
 }
