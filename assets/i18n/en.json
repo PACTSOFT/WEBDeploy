@@ -1915,6 +1915,7 @@
 "CRMCases_Date": "Date",
 "CRMCases_User": "User",
 "CRMTeam_AssignFrom": "Assign From",
+"Service_VoucherNos": "VoucherNos",
 "CRMTeam_Date": "Date",
 "CRMTeam_Error": "Error in Assigning",
 "CRMTeam_Save": "Assigned Sucessfully",
