@@ -3242,7 +3242,7 @@
 "Reports_LblShowOTSummary":"Show OverTime Summary",
 "Reports_LblHideAttendanceDate":"Hide Attendance Date",
 "ProcesswithAdjustments":"Process with Adjustments",
-"HideColumnsWithValueZero":"Hide Columns With Value Zero"
-
+"HideColumnsWithValueZero":"Hide Columns With Value Zero",
+"UOM_UnitCode":"Unit Code"
 
 }
