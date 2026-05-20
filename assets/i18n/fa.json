@@ -3169,5 +3169,7 @@
 "Reports_LblShowSummaryColumns":"Show Summary Columns",
 "Reports_LblShowOTSummary":"Show OverTime Summary",
 "Reports_LblHideAttendanceDate":"Hide Attendance Date",
-"UOM_UnitCode":"Unit Code"
+"UOM_UnitCode":"Unit Code",
+"Reports_LblCalculateBasedOnLastSalary":"CalculateBasedOnLastSalary",
+"Reports_LblShowActualEndDate":"ShowActualEndDate"
 }
