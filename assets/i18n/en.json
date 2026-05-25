@@ -3244,7 +3244,8 @@
 "ProcesswithAdjustments":"Process with Adjustments",
 "HideColumnsWithValueZero":"Hide Columns With Value Zero",
 "UOM_UnitCode":"Unit Code",
-"Reports_LblCalculateBasedOnLastSalary":"CalculateBasedOnLastSalary",
-"Reports_LblShowActualEndDate":"ShowActualEndDate"
-
+"Reports_LblCalculateBasedOnLastSalary":"Calculate BasedOn Last Salary",
+"Reports_LblShowActualEndDate":"Show Actual End Date",
+"Reports_LblLateRejoinVacation":"Late Rejoin Vacation",
+"Reports_LblLateRejoinLeave":"Late Rejoin Leave"
 }
